@@ -71,10 +71,10 @@ Este projeto simula boas práticas reais de segurança:
 ⚙️ Como executar o projeto
 
 1. Clone o repositório
+   
+git clone https://github.com/seuusuario/sistema-login-seguro.git
 
-git clone (https://github.com/gisianecode/SIstema-de-Login-Seguro-com-Flask.git)
-
-2. Acesse a pasta
+3. Acesse a pasta
 
 cd sistema-login-seguro
 
