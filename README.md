@@ -140,3 +140,7 @@ Projeto desenvolvido para fins de estudo e portfólio de desenvolvimento web e s
 
 Este projeto faz parte da minha evolução como desenvolvedor, com foco em:
 backend, segurança e boas práticas de autenticação.
+
+![imagem 1](images/captura.png)
+![imagem 2](images/captura2.png)
+![imagem 3](images/captura3.png)
