@@ -130,7 +130,7 @@ Projeto desenvolvido para fins de estudo e portfólio de desenvolvimento web e s
 
 ⭐ Objetivo
 
-Este projeto faz parte da minha evolução como desenvolvedor, com foco em:
+Este projeto faz parte da minha evolução como desenvolvedora, com foco em:
 backend, segurança e boas práticas de autenticação.
 
 ![imagem 1](images/captura.png)
