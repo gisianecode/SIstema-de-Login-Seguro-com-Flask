@@ -2,8 +2,6 @@
 
 Sistema de autenticação simples, seguro e funcional desenvolvido com Python + Flask, com foco em boas práticas de segurança como hash de senha, controle de tentativas de login e proteção básica contra falhas comuns.
 
-⸻
-
 🚀 Funcionalidades
 
 * 👤 Cadastro de usuários
@@ -15,7 +13,6 @@ Sistema de autenticação simples, seguro e funcional desenvolvido com Python + 
 * ⚠️ Mensagens genéricas de erro (sem vazamento de informações)
 * ✅ Validação de senha e dados de entrada
 
-⸻
 
 🧱 Tecnologias utilizadas
 
@@ -28,7 +25,7 @@ Sistema de autenticação simples, seguro e funcional desenvolvido com Python + 
 * HTML5
 * CSS3
 
-⸻
+
 
 📁 Estrutura do projeto
 
@@ -52,7 +49,7 @@ Sistema de autenticação simples, seguro e funcional desenvolvido com Python + 
 │
 └── README.md
 
-⸻
+
 
 🔐 Regras de segurança implementadas
 
@@ -66,7 +63,7 @@ Este projeto simula boas práticas reais de segurança:
     (evita ataque de enumeração de usuários)
 * Sessões protegidas com Flask-Login
 
-⸻
+
 
 ⚙️ Como executar o projeto
 
@@ -104,7 +101,6 @@ python app.py
 
 http://127.0.0.1:5000
 
-⸻
 
 🧠 O que este projeto demonstra
 
@@ -117,7 +113,6 @@ Este projeto foi desenvolvido para demonstrar conhecimentos em:
 * Controle de sessões
 * Lógica de backend
 
-⸻
 
 📌 Possíveis melhorias futuras
 
@@ -128,13 +123,10 @@ Este projeto foi desenvolvido para demonstrar conhecimentos em:
 * 🛑 Sistema de captcha contra bots
 * 🗄️ Migração para PostgreSQL
 
-⸻
 
 👨‍💻 Autor
 
 Projeto desenvolvido para fins de estudo e portfólio de desenvolvimento web e segurança da informação.
-
-⸻
 
 ⭐ Objetivo
 
